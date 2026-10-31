@@ -1,0 +1,9 @@
+# data and weights are not published (see README, Copyright)
+data/
+*.pt
+*.pth
+*.jsonl
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/
