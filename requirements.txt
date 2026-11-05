@@ -1,2 +1,6 @@
 torch>=2.1
 tokenizers>=0.15
+# part 2
+transformers
+peft
+accelerate
